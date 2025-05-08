@@ -5,7 +5,7 @@ const traduire = require('../framework/traduction')
 
 
 zokou({
-    nomCom: "chifumi",
+    nomCom: "tefumi",
     categorie: "Games",
     reaction: "📺"
   },
@@ -142,7 +142,7 @@ Therefore, the game is canceled`, mentions : [auteurMessage, auteurMsgRepondu]})
 
 
 zokou(
-    { nomCom: "quizz", categorie: "Games", reaction: "👨🏿‍💻" },
+    { nomCom: "swali", categorie: "Games", reaction: "👨🏿‍💻" },
     async (origineMessage, zk, commandeOptions) => {
         const { repondre, auteurMessage } = commandeOptions;
 
