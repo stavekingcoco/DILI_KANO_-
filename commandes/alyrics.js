@@ -3,7 +3,7 @@ const lyricsFinder = require('lyrics-finder');
 const yts = require('yt-search');
 
 zokou({
-    nomCom: 'lyrics1',
+    nomCom: 'lyrics2',
     aliases: ['lyric', 'mistari'],
     reaction: '📑',
 }, async (zk, dest, context) => {
@@ -42,7 +42,7 @@ zokou({
 
         // Format the message to send to the user
         const formattedMessage = `
-*RAHMANI XMD LYRICS FINDER*
+*𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 LYRICS FINDER*
 *Title:* ${title}
 *Artist:* ${artist}
 
