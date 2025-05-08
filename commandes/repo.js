@@ -34,27 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *RAHMANI-XMD BOT INFO* 
+          *𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
-> https://github.com/Qartde/RAHMANI-XMD
+> https://github.com/next55x/DILI_KANO_-
 
 *CONTACT OWNER*
-> https://wa.me/255693629079
+> https://wa.me/255699155695
 
 *WHATSAPP CHANNEL*
->https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
+>https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Rahmani-Md*
- │❒⁠⁠⁠⁠ *DEV2* : *Rahmani-Md*
+ │❒⁠⁠⁠⁠ *DEV1* : *𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃*
+ │❒⁠⁠⁠⁠ *DEV2* : *𝚻𝚰𝚳𝚴𝚫𝐒𝚫 𝚻𝚳𝐃*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY RAHMANI-XMD*
+         *POWERED BY 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃*
 
 ❒───────────────────❒`;
 
