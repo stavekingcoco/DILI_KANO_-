@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
+                 await repondre(`https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H`) 
 
    
 
@@ -105,7 +105,7 @@ zokou({ nomCom: 'rtime',
 
                  await repondre(`ʜᴇʟʟᴏ.... ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ sᴇᴇ ʏᴏᴜ
 
-𝐑𝐀𝐇𝐌𝐀𝐍𝐈_𝐌𝐃 ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
+𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
 
 ....ᴜsᴇ ᴍᴇ ᴄᴀʀᴇғᴜʟʟʏ 
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H`) 
 
    
 
@@ -148,7 +148,7 @@ zokou({ nomCom: 'rahzayn',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Rahmani-md is running...... Love it_*`) 
+                 await repondre(`*_dil kano-md is running...... Love it_*`) 
 
    
 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join our group https://whatsapp.com/channel/0029VatokI45EjxufALmY32X `) 
+                 await repondre(`top a link to join our group  https://chat.whatsapp.com/C9BHOsjzXaK7ZhHAyRwSaK`) 
 
    
 
@@ -198,7 +198,7 @@ zokou({ nomCom: 'group1',
 )
 
 
-zokou({ nomCom: 'script',
+zokou({ nomCom: 'support2',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🐅', 
@@ -209,7 +209,7 @@ zokou({ nomCom: 'script',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join our support channel https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
+                 await repondre(`tap here to join our support channel https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H`) 
 
 
 
@@ -217,7 +217,7 @@ zokou({ nomCom: 'script',
 )
 
 
-zokou({ nomCom: 'rahmani',
+zokou({ nomCom: 'kano',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
@@ -248,7 +248,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*check the developer via https://wa.me/c/255693629079*`) 
+                 await repondre(`*check the developer via https://wa.me/c/255699155695*`) 
 
    
 
@@ -269,22 +269,22 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(` ┏━━━━━━━━━━━━━━
-┃𝚁𝙰𝙷𝙼𝙰𝙽𝙸_𝙼𝙳-BOT 🎉🎉🎉 
+┃𝐃𝚰𝐋 𝐊𝚫𝚴𝚯-BOT 🎉🎉🎉 
 | THUG 
 ┃LIFE💀
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 rahmaniMd 𖥘
+❶ || Creator = 𖥘 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/c/255693629079 👈
+Wanna talk to me?👉 https://wa.me/c/255699155695 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *Rahmani Md *`) 
+© *𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 *`) 
 
    
 
 
   }
-);
+)
