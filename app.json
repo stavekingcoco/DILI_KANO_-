@@ -84,7 +84,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Insert your Heroku app name (required)",
-      "value": "Rahmani_Md",
+      "value": "",
       "required": true
     },
     "SESSION_ID": {
@@ -94,7 +94,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "𝚻𝚰𝚳𝚴𝚫𝐒𝚫 𝚻𝚳𝐃",
+      "value": "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃",
       "required": true
     },
     "URL": {
