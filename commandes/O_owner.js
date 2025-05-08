@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/next55x/DILI_KANO_-] \n\n\nmade by dil kano");  
+    repondre("THANK YOU FOR CHOOSING 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/next55x/DILI_KANO_-] \n\n\nmade by dil kano");  
     await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
