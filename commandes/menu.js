@@ -33,36 +33,36 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭──────────────────∆
-┊∆╭─── *RAHMANI-XMD* ────∆
-┊∆┊ *User* : ${s.OWNER_NAME}
-┊∆┊ *Mode* : ${mode}
-┊∆╰───────────────∆
-┊∆┊ *Time* : ${temps}  
-┊∆┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┊∆╰───────────────∆
-╰──────────────────∆ \n\n`;
+╭──────────────────🚀
+┊🇹🇿╭─── *𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃* ────🚀
+┊🇹🇿┊ *User* : ${s.OWNER_NAME}
+┊🇹🇿┊ *Mode* : ${mode}
+┊🇹🇿╰───────────────🚀
+┊🇹🇿┊ *Time* : ${temps}  
+┊🇹🇿┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┊🇹🇿╰───────────────🚀
+╰──────────────────🚀 \n\n`;
  
     let menuMsg=`  
-  *RAHMANI-XMD COMMANDS*
+  *𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 COMMANDS*
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────∆* *${cat}* *∆*`;
+        menuMsg += `*╭────🇹🇿* *${cat}* *∆*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊∆* ${cmd}`;
+*┊🇹🇿* ${cmd}`;
         }
         menuMsg += `
-*╰═════════════∆* \n`
+*╰═════════════🇹🇿* \n`
     }
 
     menuMsg += `
 ◇            ◇
-*—————∆∆∆∆—————*
+*—————🇹🇿🇹🇿🇹🇿—————*
 
-   *POWERED BY RAHMANI-XMD*                                         
-*╰═════════════∆*
+   *POWERED BY 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃*                                         
+*╰═════════════🇹🇿*
 `;
 
    var lien = mybotpic();
