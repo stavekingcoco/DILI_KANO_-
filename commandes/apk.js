@@ -46,7 +46,7 @@ zokou({
         document: { url: appDetails.BK9.dllink },
         fileName: `${appDetails.BK9.name}.apk`,
         mimetype: "application/vnd.android.package-archive",
-        caption: "𝗥𝗔𝗛𝗠𝗔𝗡𝗜-𝗠𝗗"
+        caption: "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃"
       },
       { quoted: ms }
     );
