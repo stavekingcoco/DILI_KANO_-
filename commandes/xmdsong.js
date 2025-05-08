@@ -10,7 +10,7 @@ const getContextInfo = (title = '', userJid = '', thumbnailUrl = '') => ({
   isForwarded: true,
   forwardedNewsletterMessageInfo: {
     newsletterJid: "120363345407274799@newsletter",
-    newsletterName: "RAHMAN XMD",
+    newsletterName: "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃",
     serverMessageId: Math.floor(100000 + Math.random() * 900000),
   },
   externalAdReply: {
@@ -56,7 +56,7 @@ async function downloadFromApis(apis) {
 
 // Audio download command
 zokou({
-  nomCom: "play",
+  nomCom: "plays",
   aliases: ["song", "playdoc", "audio", "mp3"],
   categorie: "download",
   reaction: "🎸"
@@ -113,7 +113,7 @@ zokou({
 });
 
 zokou({
-  nomCom: "video",
+  nomCom: "videos",
   aliases: ["videodoc", "film", "mp4"],
   categorie: "download",
   reaction: "🎬"
