@@ -28,7 +28,7 @@ zokou(
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://files.catbox.moe/r3x8bb.jpg',
+                  url: 'https://files.catbox.moe/vnmzkg.jpg',
                 },
               }, { upload: zk.waUploadToServer })),
               title: '',
