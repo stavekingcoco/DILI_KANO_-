@@ -38,7 +38,7 @@ zokou({
         'caption': "Enjoy the view",
         'contextInfo': {
           'externalAdReply': {
-            'title': "Rahmani-Md",
+            'title': "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯",
             'body': "Here's the image you searched for: " + _0x2d6871,
             'thumbnailUrl': _0x54f9fa[_0xf62d6].url,
             'sourceUrl': conf.GURL,
@@ -72,7 +72,7 @@ zokou({
         'caption': "Enjoy the view",
         'contextInfo': {
           'externalAdReply': {
-            'title': "Rahmani-Md",
+            'title': "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯",
             'body': "Here's a great image related to: waifu",
             'thumbnailUrl': _0x4859df,
             'sourceUrl': conf.GURL,
@@ -108,7 +108,7 @@ zokou({
         'caption': "Enjoy the view",
         'contextInfo': {
           'externalAdReply': {
-            'title': "Rahmani-Md",
+            'title': "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯",
             'body': "Here's a great image related to: waifu",
             'thumbnailUrl': _0x557942,
             'sourceUrl': conf.GURL,
@@ -144,7 +144,7 @@ zokou({
         'caption': "Enjoy the view",
         'contextInfo': {
           'externalAdReply': {
-            'title': "Rahmani-Md",
+            'title': "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯",
             'body': "Here's a great image related to: waifu",
             'thumbnailUrl': _0x48dd46,
             'sourceUrl': conf.GURL,
@@ -180,7 +180,7 @@ zokou({
         'caption': "Enjoy the view",
         'contextInfo': {
           'externalAdReply': {
-            'title': "Rahmani-Md",
+            'title': "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯",
             'body': "Here's a great image related to: waifu",
             'thumbnailUrl': _0x35d7d7,
             'sourceUrl': conf.GURL,
