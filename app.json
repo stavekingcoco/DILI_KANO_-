@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/vnmzkg.jpg",
+  "logo": "https://files.catbox.moe/xg0s5o.jpg",
   "repository": "https://github.com/next55x/DILI_KANO_-",
   "succes_url": "/",
   "stack": "container",
@@ -99,7 +99,7 @@
     },
     "URL": {
       "description": "Change this image and input yours",
-      "value": "https://files.catbox.moe/vnmzkg.jpg",
+      "value": "https://files.catbox.moe/xg0s5o.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
