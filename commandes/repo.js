@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://wa.me/255699155695
 
 *WHATSAPP CHANNEL*
->https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+>https://whatsapp.com/channel/0029Vb5vW8yLikgAkyNxnY1H
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -56,7 +56,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
          *POWERED BY 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃*
 
-❒───────────────────❒`;
+❒────────©detested───────────❒`;
 
    var lien = mybotpic();
 
